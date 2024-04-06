@@ -1,0 +1,13 @@
+numpy~=1.25.2
+setuptools~=65.5.1
+matplotlib~=3.7.2
+Pillow~=10.0.0
+python-dateutil~=2.8.2
+cycler~=0.11.0
+contourpy~=1.1.0
+packaging~=23.1
+fonttools~=4.42.1
+pyparsing~=3.0.9
+kiwisolver~=1.4.5
+pyserial~=3.5
+scipy~=1.11.2
